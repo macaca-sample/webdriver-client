@@ -2,16 +2,17 @@
   "name": "webdriver-client",
   "version": "0.1.0",
   "description": "webdriver-client",
-  "keywords": ["webdriver-client"],
-  "bin": {
-    "webdriver-client": "./bin/webdriver-client"
-  },
+  "keywords": [
+    "wd",
+    "webdriver"
+  ],
   "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/xudafeng/webdriver-client.git"
   },
   "dependencies": {
+    "xlogger": "~1.0.0"
   },
   "devDependencies": {
     "co-mocha": "*",
