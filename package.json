@@ -1,7 +1,7 @@
 {
   "name": "webdriver-client",
-  "version": "0.1.0",
-  "description": "webdriver-client",
+  "version": "1.0.0",
+  "description": "webdriver client",
   "keywords": [
     "wd",
     "webdriver"
@@ -12,7 +12,9 @@
     "url": "git://github.com/xudafeng/webdriver-client.git"
   },
   "dependencies": {
-    "xlogger": "~1.0.0"
+    "wd": "~0.4.0",
+    "xlogger": "~1.0.0",
+    "xutil": "~1.0.0"
   },
   "devDependencies": {
     "co-mocha": "*",
