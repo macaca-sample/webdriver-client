@@ -12,7 +12,9 @@
     "url": "git://github.com/xudafeng/webdriver-client.git"
   },
   "dependencies": {
+    "macaca-chromedriver": "~1.0.4",
     "wd": "~0.4.0",
+    "wd-next": "~1.0.0",
     "xlogger": "~1.0.0",
     "xutil": "~1.0.0"
   },
