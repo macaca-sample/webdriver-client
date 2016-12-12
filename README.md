@@ -5,19 +5,17 @@
 
 [npm-image]: https://img.shields.io/npm/v/webdriver-client.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/webdriver-client
-[travis-image]: https://img.shields.io/travis/xudafeng/webdriver-client.svg?style=flat-square
-[travis-url]: https://travis-ci.org/xudafeng/webdriver-client
+[travis-image]: https://img.shields.io/travis/macacajs/webdriver-client.svg?style=flat-square
+[travis-url]: https://travis-ci.org/macacajs/webdriver-client
 
-> client for webdriver
+> client for webdriver, just a sample
 
 ## Installment
 
-```bash
+```shell
 $ npm i webdriver-client --save
 ```
 
 ## License
 
 The MIT License (MIT)
-
-Copyright (c) 2015 xdf
